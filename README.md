@@ -1,2 +1,2 @@
-hi# voropack
+# voropack
 my texture pack
