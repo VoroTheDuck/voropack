@@ -1,2 +1,0 @@
-# voropack
-my texture pack
